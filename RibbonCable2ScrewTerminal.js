@@ -1,4 +1,8 @@
 /*
+
+View this file at:
+https://openjscad.org/#https://raw.githubusercontent.com/JamesNewton/CAD/master/RibbonCable2ScrewTerminal.js
+
 Ribbon cables are great for high speed data signals IF you put ground wires between every signal wire.
 They are /collectivly/ strong and capable. Individually, each wire is thin and easy to break. 
 Interfacing ribbon cables to headers via IDC plugs is easy and reliable. However, interfacing
